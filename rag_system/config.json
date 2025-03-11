@@ -26,7 +26,7 @@
     "type": "qwen",
     "params": {
       "model_name": "qwen-7b-chat",
-      "api_key": "sk-a363d3a37cc242ee8007a7f9f9d8b867",
+      "api_key": "<YOUR_API_KEY_HERE>",
       "temperature": 0.7
     }
   }
