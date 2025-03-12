@@ -2,7 +2,7 @@
   "chunker": {
     "type": "paragraph",
     "params": {
-      "chunk_size": 1000,
+      "chunk_size": 500,
       "chunk_overlap": 200
     }
   },
